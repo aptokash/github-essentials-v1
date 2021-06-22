@@ -1,3 +1,5 @@
 # github-essentials
 
-GitHub for dummies.
+GitHub for dummies
+
+Forked over, and now editted.
